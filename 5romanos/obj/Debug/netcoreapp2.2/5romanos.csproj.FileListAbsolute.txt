@@ -1,0 +1,11 @@
+C:\Users\formacion.GTT\Desktop\19GTTCLASE\GTTCURSO\5romanos\bin\Debug\netcoreapp2.2\5romanos.deps.json
+C:\Users\formacion.GTT\Desktop\19GTTCLASE\GTTCURSO\5romanos\bin\Debug\netcoreapp2.2\5romanos.runtimeconfig.json
+C:\Users\formacion.GTT\Desktop\19GTTCLASE\GTTCURSO\5romanos\bin\Debug\netcoreapp2.2\5romanos.runtimeconfig.dev.json
+C:\Users\formacion.GTT\Desktop\19GTTCLASE\GTTCURSO\5romanos\bin\Debug\netcoreapp2.2\5romanos.dll
+C:\Users\formacion.GTT\Desktop\19GTTCLASE\GTTCURSO\5romanos\bin\Debug\netcoreapp2.2\5romanos.pdb
+C:\Users\formacion.GTT\Desktop\19GTTCLASE\GTTCURSO\5romanos\obj\Debug\netcoreapp2.2\5romanos.csprojAssemblyReference.cache
+C:\Users\formacion.GTT\Desktop\19GTTCLASE\GTTCURSO\5romanos\obj\Debug\netcoreapp2.2\5romanos.csproj.CoreCompileInputs.cache
+C:\Users\formacion.GTT\Desktop\19GTTCLASE\GTTCURSO\5romanos\obj\Debug\netcoreapp2.2\5romanos.AssemblyInfoInputs.cache
+C:\Users\formacion.GTT\Desktop\19GTTCLASE\GTTCURSO\5romanos\obj\Debug\netcoreapp2.2\5romanos.AssemblyInfo.cs
+C:\Users\formacion.GTT\Desktop\19GTTCLASE\GTTCURSO\5romanos\obj\Debug\netcoreapp2.2\5romanos.dll
+C:\Users\formacion.GTT\Desktop\19GTTCLASE\GTTCURSO\5romanos\obj\Debug\netcoreapp2.2\5romanos.pdb

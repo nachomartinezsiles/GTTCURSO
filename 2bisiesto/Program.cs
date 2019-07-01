@@ -16,11 +16,13 @@ namespace _2bisiesto
                 Console.WriteLine(anobisiesto + " no es un año bisiesto");
             }
 
-
-            if (Program.isbisiesto)
+            if (Program.isbisiesto(2000))
             {
-                Console.WriteLine(Program.isbisiesto(Convert.ToInt32(2000)));
+                return true;
             }     
+            else{
+                return false;
+            }
         }
         static bool isbisiesto(string[] args)
         {

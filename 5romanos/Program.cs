@@ -9,9 +9,12 @@ namespace _5romanos
         {
             int ano = Convert.ToInt32(args[0]);
 
+            String []Unidad={"", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX"};
+            String []Decena={"", "X", "XX", "XXX", "XL", "L", "LX", "LXX", "LXXX", "XC"};
+            String []Centena={"", "C", "CC", "CCC", "CD", "D", "DC", "DCC", "DCCC"};
 
-
-            Console.WriteLine(args[0]);
+            int N = Convert.ToInt32(args[0]);
+            
 
 
         }
